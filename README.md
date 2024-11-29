@@ -21,6 +21,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" title="Azure"/>
   </div>
 
-[![Edit Button Component](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/react-button-component-demo-f1jjj?fontsize=14&hidenavigation=1&theme=dark)
-
 </div>
